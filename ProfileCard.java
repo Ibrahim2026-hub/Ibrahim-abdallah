@@ -2,13 +2,13 @@ public class ProfileCard {
     public static void main(String[] args) {
 
         // Storing each field in separate String variables
-        String courseTitle = "CS 234 – JAVA PROFILE CARD";
-        String name = "Ibrahim Mohamed";
-        String studentId = "2024-04-07052";
+        String courseTittle = "CS 234 – JAVA PROFILE CARD";
+        String name = "AKRAM SLIM";
+        String studentId = "2024-04-02035";
         String year = "2nd Year";
-        String background = "I know java from CS 175 and have built small web projects.";
-        String goal = "I want to build a Java app by the end of this course.";
-        String funFact = "I can stay under water for half a hour.";
+        String background = "I have some basic concepts of Java and some experience on C as well.";
+        String goal = "By the end of this course, I want to become skilled software developer.";
+        String funFact = "I enjoy learning new technical skills and solving various puzzles.";
 
         // Printing formatted profile card
         System.out.println("==================================================");
